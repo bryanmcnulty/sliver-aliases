@@ -1,0 +1,24 @@
+{
+    "name": "FullPowers",
+    "version": "v0.0.1",
+    "command_name": "fullpowers",
+    "original_author": "@itm4n",
+    "repo_url": "https://github.com/itm4n/FullPowers",
+    "help": "Automatically recover default privilege set of a service account",
+    "allow_args": true,
+    "default_args": null,
+    "is_reflective": false,
+    "is_assembly": false,
+    "files": [
+        {
+            "os": "windows",
+            "arch": "amd64",
+            "path": "FullPowers.any.exe"
+        },
+        {
+            "os": "windows",
+            "arch": "386",
+            "path": "FullPowers.any.exe"
+        }
+    ]
+}
