@@ -1,0 +1,24 @@
+{
+    "name": "SharpGPO",
+    "version": "v0.0.1",
+    "command_name": "sharpgpo",
+    "original_author": "@Dliv3",
+    "repo_url": "https://github.com/Dliv3/SharpGPO",
+    "help": "Remotely manipulate Group Policy Objects (GPO), Organizational Units (OU), GPLink, and Security Filtering settings.",
+    "allow_args": true,
+    "default_args": null,
+    "is_reflective": false,
+    "is_assembly": true,
+    "files": [
+        {
+            "os": "windows",
+            "arch": "amd64",
+            "path": "SharpGPO-NET48.x86.exe"
+        },
+        {
+            "os": "windows",
+            "arch": "386",
+            "path": "SharpGPO-NET48.x86.exe"
+        }
+    ]
+}
