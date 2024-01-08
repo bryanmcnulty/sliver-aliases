@@ -6,7 +6,7 @@
     "repo_url": "https://github.com/Dliv3/SharpGPO",
     "help": "Remotely manipulate Group Policy Objects (GPO), Organizational Units (OU), GPLink, and Security Filtering settings.",
     "allow_args": true,
-    "default_args": null,
+    "default_args": "--Help",
     "is_reflective": false,
     "is_assembly": true,
     "files": [

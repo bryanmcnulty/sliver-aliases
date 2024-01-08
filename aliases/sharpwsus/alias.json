@@ -5,7 +5,6 @@
     "original_author": "Phil Keeble",
     "repo_url": "https://github.com/nettitude/SharpWSUS",
     "help": "Tool for lateral movement through WSUS",
-
     "allow_args": true,
     "default_args": null,
     "is_reflective": false,

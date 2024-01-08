@@ -6,7 +6,7 @@
     "repo_url": "https://github.com/itm4n/FullPowers",
     "help": "Automatically recover default privilege set of a service account",
     "allow_args": true,
-    "default_args": null,
+    "default_args": "-h",
     "is_reflective": false,
     "is_assembly": false,
     "files": [
