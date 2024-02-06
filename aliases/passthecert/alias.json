@@ -1,0 +1,24 @@
+{
+    "name": "PassTheCert",
+    "version": "v0.0.1",
+    "command_name": "passthecert",
+    "original_author": "@the-useless-one",
+    "repo_url": "https://github.com/AlmondOffSec/PassTheCert",
+    "help": "PoC tool that allows authenticating against an LDAP/S server with a certificate to perform different attack actions.",
+    "allow_args": true,
+    "default_args": null,
+    "is_reflective": false,
+    "is_assembly": true,
+    "files": [
+        {
+            "os": "windows",
+            "arch": "amd64",
+            "path": "PassTheCert-NET47-Obfuscated.x86.exe"
+        },
+        {
+            "os": "windows",
+            "arch": "386",
+            "path": "PassTheCert-NET47-Obfuscated.x86.exe"
+        }
+    ]
+}
