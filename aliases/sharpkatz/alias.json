@@ -2,11 +2,11 @@
     "name": "SharpKatz",
     "version": "v0.0.1",
     "command_name": "sharpkatz",
-    "original_author": "Phil Keeble",
+    "original_author": "@b4rtik",
     "repo_url": "https://github.com/b4rtik/SharpKatz",
     "help": "Partial Mimikatz port in C# (Obfuscated)",
     "allow_args": true,
-    "default_args": null,
+    "default_args": "--help",
     "is_reflective": false,
     "is_assembly": true,
     "files": [

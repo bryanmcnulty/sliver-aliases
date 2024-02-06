@@ -6,4 +6,4 @@ all: $(ALIAS_TARGETS)
 
 $(ALIAS_TARGETS): $(ALIASES)
 	mkdir -p $(SLIVER_CLIENT_PATH)/aliases/$(@F)
-	cp aliases/$(@F)/* $(SLIVER_CLIENT_PATH)/aliases/$(@F)/
+	cp ./aliases/$(@F)/* $(SLIVER_CLIENT_PATH)/aliases/$(@F)/
