@@ -1,0 +1,24 @@
+{
+    "name": "SharpKatz",
+    "version": "v0.0.1",
+    "command_name": "sharpkatz",
+    "original_author": "Phil Keeble",
+    "repo_url": "https://github.com/b4rtik/SharpKatz",
+    "help": "Partial Mimikatz port in C# (Obfuscated)",
+    "allow_args": true,
+    "default_args": null,
+    "is_reflective": false,
+    "is_assembly": true,
+    "files": [
+        {
+            "os": "windows",
+            "arch": "amd64",
+            "path": "SharpKatz-NET47-Obfuscated.x86.exe"
+        },
+        {
+            "os": "windows",
+            "arch": "386",
+            "path": "SharpKatz-NET47-Obfuscated.x86.exe"
+        }
+    ]
+}

@@ -4,7 +4,7 @@
     "command_name": "sharpdpapi",
     "original_author": "@harmj0y",
     "repo_url": "https://github.com/GhostPack/SharpDPAPI",
-    "help": "C# port of some DPAPI functionality from @gentilkiwi's Mimikatz project",
+    "help": "C# port of some DPAPI functionality from @gentilkiwi's Mimikatz project (Obfuscated)",
     "allow_args": true,
     "default_args": null,
     "is_reflective": false,
