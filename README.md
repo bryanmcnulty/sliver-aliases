@@ -1,6 +1,6 @@
 # sliver-aliases
 
-Collection of importable aliases for use with Sliver C2.
+Collection of importable aliases for use with [Sliver C2](https://github.com/BishopFox/sliver).
 
 Obfuscated assemblies pulled from [ObfuscatedSharpCollection](https://github.com/Flangvik/ObfuscatedSharpCollection)
 
@@ -8,7 +8,7 @@ Obfuscated assemblies pulled from [ObfuscatedSharpCollection](https://github.com
 
 ## Aliases
 
-- [FullPowers](https://github.com/itm4n/FullPowers) - `fullpowers`
+- [FullPowers](https://github.com/itm4n/FullPowers) (upx) - `fullpowers`
 - [Group3r](https://github.com/Group3r/Group3r) (obfuscated assembly) - `grouper`
 - [SharpDPAPI](https://github.com/GhostPack/SharpDPAPI) (obfuscated assembly) - `sharpdpapi`
 - [SharpGPO](https://github.com/Dliv3/SharpGPO) (assembly) `sharpgpo`

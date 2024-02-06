@@ -6,7 +6,7 @@
     "repo_url": "https://github.com/AlmondOffSec/PassTheCert",
     "help": "PoC tool that allows authenticating against an LDAP/S server with a certificate to perform different attack actions.",
     "allow_args": true,
-    "default_args": null,
+    "default_args": "--help",
     "is_reflective": false,
     "is_assembly": true,
     "files": [
