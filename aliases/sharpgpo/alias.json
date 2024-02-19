@@ -13,12 +13,12 @@
         {
             "os": "windows",
             "arch": "amd64",
-            "path": "SharpGPO-NET48.x86.exe"
+            "path": "SharpGPO.x86.exe"
         },
         {
             "os": "windows",
             "arch": "386",
-            "path": "SharpGPO-NET48.x86.exe"
+            "path": "SharpGPO.x86.exe"
         }
     ]
 }

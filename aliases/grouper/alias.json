@@ -13,12 +13,12 @@
         {
             "os": "windows",
             "arch": "amd64",
-            "path": "Group3r-NET47-Obfuscated.x86.exe"
+            "path": "Group3r.x86.exe"
         },
         {
             "os": "windows",
             "arch": "386",
-            "path": "Group3r-NET47-Obfuscated.x86.exe"
+            "path": "Group3r.x86.exe"
         }
     ]
 }

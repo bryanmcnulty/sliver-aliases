@@ -8,9 +8,9 @@ Obfuscated assemblies pulled from [ObfuscatedSharpCollection](https://github.com
 
 ## Aliases
 
-- [FullPowers](https://github.com/itm4n/FullPowers) (upx) - `fullpowers`
+- ~~[FullPowers](https://github.com/itm4n/FullPowers) (upx) - `fullpowers`~~
 - [Group3r](https://github.com/Group3r/Group3r) (obfuscated assembly) - `grouper`
-- [SharpDPAPI](https://github.com/GhostPack/SharpDPAPI) (obfuscated assembly) - `sharpdpapi`
+- [SharpDPAPI](https://github.com/GhostPack/SharpDPAPI) (assembly) - `sharpdpapi`
 - [SharpGPO](https://github.com/Dliv3/SharpGPO) (assembly) `sharpgpo`
 - [SharpKatz](https://github.com/b4rtik/SharpKatz) (obfuscated assembly) - `sharpkatz`
 - [SharpWSUS](https://github.com/nettitude/SharpWSUS) (assembly) - `sharpwsus`

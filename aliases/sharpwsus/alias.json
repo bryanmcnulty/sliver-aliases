@@ -13,12 +13,12 @@
         {
             "os": "windows",
             "arch": "amd64",
-            "path": "SharpWSUS-NET4.x86.exe"
+            "path": "SharpWSUS.x86.exe"
         },
         {
             "os": "windows",
             "arch": "386",
-            "path": "SharpWSUS-NET4.x86.exe"
+            "path": "SharpWSUS.x86.exe"
         }
     ]
 }

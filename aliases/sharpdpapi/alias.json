@@ -1,10 +1,10 @@
 {
     "name": "SharpDPAPI",
-    "version": "v1.11.3",
+    "version": "v1.12.0",
     "command_name": "sharpdpapi",
     "original_author": "@harmj0y",
     "repo_url": "https://github.com/GhostPack/SharpDPAPI",
-    "help": "C# port of some DPAPI functionality from @gentilkiwi's Mimikatz project (Obfuscated)",
+    "help": "C# port of some DPAPI functionality from @gentilkiwi's Mimikatz project",
     "allow_args": true,
     "default_args": null,
     "is_reflective": false,
@@ -13,12 +13,12 @@
       {
         "os": "windows",
         "arch": "amd64",
-        "path": "SharpDPAPI-NET47-Obfuscated.x86.exe"
+        "path": "SharpDPAPI-NET48.x86.exe"
       },
       {
         "os": "windows",
         "arch": "386",
-        "path": "SharpDPAPI-NET47-Obfuscated.x86.exe"
+        "path": "SharpDPAPI-NET48.x86.exe"
       }
     ]
   }
