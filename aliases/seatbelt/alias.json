@@ -1,0 +1,24 @@
+{
+    "name": "Seatbelt",
+    "version": "v1.2.2",
+    "command_name": "seatbelt",
+    "original_author": "@harmj0y",
+    "repo_url": "https://github.com/GhostPack/Seatbelt",
+    "help": "C# implementation of various security checks relevant from an offensive perspective",
+    "allow_args": true,
+    "default_args": null,
+    "is_reflective": false,
+    "is_assembly": true,
+    "files": [
+      {
+        "os": "windows",
+        "arch": "amd64",
+        "path": "Seatbelt.x86.exe"
+      },
+      {
+        "os": "windows",
+        "arch": "386",
+        "path": "Seatbelt.x86.exe"
+      }
+    ]
+  }
