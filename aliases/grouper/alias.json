@@ -1,24 +1,29 @@
 {
-    "name": "Group3r",
-    "version": "v1.0.59",
-    "command_name": "grouper",
-    "original_author": "Mike Loss (@mikeloss)",
-    "repo_url": "https://github.com/Group3r/Group3r",
-    "help": "Tool to rapidly enumerate relevant settings in AD Group Policy, and identify exploitable misconfigurations",
-    "allow_args": true,
-    "default_args": "--help",
-    "is_reflective": false,
-    "is_assembly": true,
-    "files": [
-        {
-            "os": "windows",
-            "arch": "amd64",
-            "path": "Group3r.x86.exe"
-        },
-        {
-            "os": "windows",
-            "arch": "386",
-            "path": "Group3r.x86.exe"
-        }
-    ]
+  "name": "Group3r",
+  "version": "v1.0.59",
+  "command_name": "grouper",
+  "original_author": "Mike Loss (@mikeloss)",
+  "repo_url": "https://github.com/Group3r/Group3r",
+  "help": "Tool to rapidly enumerate relevant settings in AD Group Policy, and identify exploitable misconfigurations",
+  "allow_args": true,
+  "default_args": "--help",
+  "is_reflective": false,
+  "is_assembly": true,
+  "files": [
+    {
+      "os": "windows",
+      "arch": "amd64",
+      "path": "NET/Group3r.any.exe"
+    },
+    {
+      "os": "windows",
+      "arch": "386",
+      "path": "NET/Group3r.any.exe"
+    },
+    {
+      "os": "windows",
+      "arch": "arm64",
+      "path": "NET/Group3r.arm64.exe"
+    }
+  ]
 }

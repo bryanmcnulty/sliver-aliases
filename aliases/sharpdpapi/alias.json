@@ -1,24 +1,29 @@
 {
-    "name": "SharpDPAPI",
-    "version": "v1.12.0",
-    "command_name": "sharpdpapi",
-    "original_author": "@harmj0y",
-    "repo_url": "https://github.com/GhostPack/SharpDPAPI",
-    "help": "C# port of some DPAPI functionality from @gentilkiwi's Mimikatz project",
-    "allow_args": true,
-    "default_args": null,
-    "is_reflective": false,
-    "is_assembly": true,
-    "files": [
-      {
-        "os": "windows",
-        "arch": "amd64",
-        "path": "SharpDPAPI-NET48.x86.exe"
-      },
-      {
-        "os": "windows",
-        "arch": "386",
-        "path": "SharpDPAPI-NET48.x86.exe"
-      }
-    ]
+  "name": "SharpDPAPI",
+  "version": "v1.12.0",
+  "command_name": "sharpdpapi",
+  "original_author": "@harmj0y",
+  "repo_url": "https://github.com/GhostPack/SharpDPAPI",
+  "help": "C# port of some DPAPI functionality from @gentilkiwi's Mimikatz project",
+  "allow_args": true,
+  "default_args": null,
+  "is_reflective": false,
+  "is_assembly": true,
+  "files": [
+    {
+      "os": "windows",
+      "arch": "amd64",
+      "path": "NET/SharpDPAPI.x64.exe"
+    },
+    {
+      "os": "windows",
+      "arch": "386",
+      "path": "NET/SharpDPAPI.x86.exe"
+    },
+    {
+      "os": "windows",
+      "arch": "arm64",
+      "path": "NET/SharpDPAPI.arm64.exe"
+    }
+  ]
   }
