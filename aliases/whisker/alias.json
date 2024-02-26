@@ -1,0 +1,30 @@
+{
+  "name": "Whisker",
+  "version": "v0.0.1",
+  "command_name": "whisker",
+  "original_author": "Elad Shamir (@eladshamir)",
+  "repo_url": "https://github.com/eladshamir/Whisker",
+  "help": "Tool for taking over Active Directory user and computer accounts with \"Shadow Credentials\"",
+  "allow_args": true,
+  "default_args": "",
+  "is_reflective": false,
+  "is_assembly": true,
+  "files": [
+    {
+      "os": "windows",
+      "arch": "amd64",
+      "path": "NET/Whisker.any.exe"
+    },
+    {
+      "os": "windows",
+      "arch": "386",
+      "path": "NET/Whisker.any.exe"
+    },
+    {
+      "os": "windows",
+      "arch": "arm64",
+      "path": "NET/Whisker.arm64.exe"
+    }
+  ]
+}
+  
