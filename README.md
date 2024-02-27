@@ -2,8 +2,6 @@
 
 Collection of importable aliases for use with [Sliver C2](https://github.com/BishopFox/sliver).
 
-Obfuscated assemblies pulled from [ObfuscatedSharpCollection](https://github.com/Flangvik/ObfuscatedSharpCollection)
-
 **Please don't use any of these for real engagements.**
 
 ## Aliases
