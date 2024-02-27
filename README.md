@@ -6,19 +6,15 @@ Obfuscated assemblies pulled from [ObfuscatedSharpCollection](https://github.com
 
 **Please don't use any of these for real engagements.**
 
-## Situational Awareness
+## Aliases
 
-- [Seatbelt](https://github.com/GhostPack/Seatbelt) (assembly) - `seatbelt`
-- [Group3r](https://github.com/Group3r/Group3r) (obfuscated assembly) - `grouper`
-- [SharpGPO](https://github.com/Dliv3/SharpGPO) (assembly) `sharpgpo`
-- [PassTheCert](https://github.com/AlmondOffSec/PassTheCert) (obfuscated assembly) - `passthecert`
-- [SharpWSUS](https://github.com/nettitude/SharpWSUS) (assembly) - `sharpwsus`
-
-## Credentials
-
-- [SharpDPAPI](https://github.com/GhostPack/SharpDPAPI) (assembly) - `sharpdpapi`
-- [SharpKatz](https://github.com/b4rtik/SharpKatz) (obfuscated assembly) - `sharpkatz`
-
-## Exploits
-- [NoPac](https://github.com/cube0x0/noPac) (assembly) - `exploit-nopac`
-- [SpoolFool](https://github.com/ly4k/SpoolFool) (assembly) - `exploit-spoolfool`
+- [SharpGPO](https://github.com/Dliv3/SharpGPO) - `sharpgpo`
+- [PassTheCert](https://github.com/AlmondOffSec/PassTheCert) - `passthecert`
+- [Group3r](https://github.com/Group3r/Group3r) - `grouper`
+- [Whisker](https://github.com/eladshamir/Whisker) - `whisker`
+- [Seatbelt](https://github.com/GhostPack/Seatbelt) - `seatbelt`
+- [SharpWSUS](https://github.com/nettitude/SharpWSUS) - `sharpwsus`
+- [SharpDPAPI](https://github.com/GhostPack/SharpDPAPI) - `sharpdpapi`
+- [SharpKatz](https://github.com/b4rtik/SharpKatz) - `sharpkatz`
+- [EfsPotato](https://github.com/zcgonvh/EfsPotato) - `potato-efs`
+- [NoPac](https://github.com/cube0x0/noPac) - `exploit-nopac`

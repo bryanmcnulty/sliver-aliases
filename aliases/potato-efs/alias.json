@@ -1,0 +1,29 @@
+{
+  "name": "EFSPotato",
+  "version": "v0.0.1",
+  "command_name": "potato-efs",
+  "original_author": "@zcgonvh",
+  "repo_url": "https://github.com/zcgonvh/EfsPotato",
+  "help": "MS-EFSR EfsRpcEncryptFileSrv with SeImpersonatePrivilege local privilege escalation",
+  "allow_args": true,
+  "default_args": "whoami",
+  "is_reflective": false,
+  "is_assembly": true,
+  "files": [
+    {
+      "os": "windows",
+      "arch": "amd64",
+      "path": "NET/EfsPotato.any.exe"
+    },
+    {
+      "os": "windows",
+      "arch": "386",
+      "path": "NET/EfsPotato.any.exe"
+    },
+    {
+      "os": "windows",
+      "arch": "arm64",
+      "path": "NET/EfsPotato.arm64.exe"
+    }
+  ]
+}

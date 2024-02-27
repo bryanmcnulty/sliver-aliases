@@ -1,24 +1,29 @@
 {
-    "name": "SharpWSUS",
-    "version": "v0.0.1",
-    "command_name": "sharpwsus",
-    "original_author": "Phil Keeble",
-    "repo_url": "https://github.com/nettitude/SharpWSUS",
-    "help": "Tool for lateral movement through WSUS",
-    "allow_args": true,
-    "default_args": null,
-    "is_reflective": false,
-    "is_assembly": true,
-    "files": [
-        {
-            "os": "windows",
-            "arch": "amd64",
-            "path": "SharpWSUS.x86.exe"
-        },
-        {
-            "os": "windows",
-            "arch": "386",
-            "path": "SharpWSUS.x86.exe"
-        }
-    ]
+  "name": "SharpWSUS",
+  "version": "v0.0.1",
+  "command_name": "sharpwsus",
+  "original_author": "Phil Keeble",
+  "repo_url": "https://github.com/nettitude/SharpWSUS",
+  "help": "Tool for lateral movement through WSUS",
+  "allow_args": true,
+  "default_args": "",
+  "is_reflective": false,
+  "is_assembly": true,
+  "files": [
+    {
+      "os": "windows",
+      "arch": "amd64",
+      "path": "NET/SharpWSUS.any.exe"
+    },
+    {
+      "os": "windows",
+      "arch": "386",
+      "path": "NET/SharpWSUS.any.exe"
+    },
+    {
+      "os": "windows",
+      "arch": "arm64",
+      "path": "NET/SharpWSUS.arm64.exe"
+    }
+  ]
 }

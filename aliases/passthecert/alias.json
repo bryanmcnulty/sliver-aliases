@@ -1,24 +1,29 @@
 {
-    "name": "PassTheCert",
-    "version": "v0.0.1",
-    "command_name": "passthecert",
-    "original_author": "@the-useless-one",
-    "repo_url": "https://github.com/AlmondOffSec/PassTheCert",
-    "help": "Authenticates with an LDAP/S server using a certificate to perform different attack actions. (Obfuscated)",
-    "allow_args": true,
-    "default_args": "--help",
-    "is_reflective": false,
-    "is_assembly": true,
-    "files": [
-        {
-            "os": "windows",
-            "arch": "amd64",
-            "path": "PassTheCert.x86.exe"
-        },
-        {
-            "os": "windows",
-            "arch": "386",
-            "path": "PassTheCert.x86.exe"
-        }
-    ]
+  "name": "PassTheCert",
+  "version": "v0.0.1",
+  "command_name": "passthecert",
+  "original_author": "@the-useless-one",
+  "repo_url": "https://github.com/AlmondOffSec/PassTheCert",
+  "help": "Authenticates with an LDAP/S server using a certificate to perform different attack actions.",
+  "allow_args": true,
+  "default_args": "--help",
+  "is_reflective": false,
+  "is_assembly": true,
+  "files": [
+    {
+      "os": "windows",
+      "arch": "amd64",
+      "path": "NET/PassTheCert.any.exe"
+    },
+    {
+      "os": "windows",
+      "arch": "386",
+      "path": "NET/PassTheCert.any.exe"
+    },
+    {
+      "os": "windows",
+      "arch": "arm64",
+      "path": "NET/PassTheCert.arm64.exe"
+    }
+  ]
 }

@@ -6,7 +6,7 @@
   "repo_url": "https://github.com/GhostPack/Seatbelt",
   "help": "C# implementation of various security checks relevant from an offensive perspective",
   "allow_args": true,
-  "default_args": null,
+  "default_args": "",
   "is_reflective": false,
   "is_assembly": true,
   "files": [
@@ -18,6 +18,11 @@
     {
       "os": "windows",
       "arch": "386",
+      "path": "Seatbelt.x86.exe"
+    },
+    {
+      "os": "windows",
+      "arch": "arm64",
       "path": "Seatbelt.x86.exe"
     }
   ]

@@ -6,7 +6,7 @@
   "repo_url": "https://github.com/GhostPack/SharpDPAPI",
   "help": "C# port of some DPAPI functionality from @gentilkiwi's Mimikatz project",
   "allow_args": true,
-  "default_args": null,
+  "default_args": "",
   "is_reflective": false,
   "is_assembly": true,
   "files": [
