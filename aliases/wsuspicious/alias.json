@@ -1,0 +1,29 @@
+{
+  "name": "WSuspicious",
+  "version": "v0.0.1",
+  "command_name": "wsuspicious",
+  "original_author": "@GoSecure",
+  "repo_url": "https://github.com/GoSecure/wsuspicious",
+  "help": "Proof of concept program to escalate privileges on a Windows host by abusing WSUS",
+  "allow_args": true,
+  "default_args": "/help",
+  "is_reflective": false,
+  "is_assembly": true,
+  "files": [
+    {
+      "os": "windows",
+      "arch": "amd64",
+      "path": "NET/WSuspicious.any.exe"
+    },
+    {
+      "os": "windows",
+      "arch": "386",
+      "path": "NET/WSuspicious.any.exe"
+    },
+    {
+      "os": "windows",
+      "arch": "arm64",
+      "path": "NET/WSuspicious.arm64.exe"
+    }
+  ]
+}
