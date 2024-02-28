@@ -1,0 +1,29 @@
+{
+  "name": "GodPotato",
+  "version": "v1.20.0",
+  "command_name": "potato-god",
+  "original_author": "@BeichenDream",
+  "repo_url": "https://github.com/BeichenDream/GodPotato",
+  "help": "DCOM ImpersonatePrivilege Local Privilege Escalation Exploit (GodPotato)",
+  "allow_args": true,
+  "default_args": "",
+  "is_reflective": false,
+  "is_assembly": true,
+  "files": [
+    {
+      "os": "windows",
+      "arch": "amd64",
+      "path": "NET/GodPotato.any.exe"
+    },
+    {
+      "os": "windows",
+      "arch": "386",
+      "path": "NET/GodPotato.any.exe"
+    },
+    {
+      "os": "windows",
+      "arch": "arm64",
+      "path": "NET/GodPotato.arm64.exe"
+    }
+  ]
+}
