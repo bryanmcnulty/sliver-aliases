@@ -4,7 +4,7 @@
   "command_name": "sharplsdecrypt",
   "original_author": "@Yeeb1",
   "repo_url": "https://github.com/Yeeb1/SharpLansweeperDecrypt",
-  "help": "Tool to automatically extract and decrypt scanning credentials of a Lansweeper installation",
+  "help": "Tool to automatically extract and decrypt scanning credentials from a local Lansweeper installation",
   "allow_args": true,
   "default_args": "-h",
   "is_reflective": false,
@@ -13,17 +13,17 @@
     {
       "os": "windows",
       "arch": "amd64",
-      "path": "NET/SharpLansweeperDecrypt.x86.exe"
+      "path": "NET/SharpLansweeperDecrypt.any.exe"
     },
     {
       "os": "windows",
       "arch": "386",
-      "path": "NET/SharpLansweeperDecrypt.x86.exe"
+      "path": "NET/SharpLansweeperDecrypt.any.exe"
     },
     {
       "os": "windows",
       "arch": "arm64",
-      "path": "NET/SharpLansweeperDecrypt.x86.exe"
+      "path": "NET/SharpLansweeperDecrypt.arm64.exe"
     }
   ]
 }

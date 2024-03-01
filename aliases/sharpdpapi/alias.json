@@ -13,12 +13,12 @@
     {
       "os": "windows",
       "arch": "amd64",
-      "path": "NET/SharpDPAPI.x64.exe"
+      "path": "NET/SharpDPAPI.any.exe"
     },
     {
       "os": "windows",
       "arch": "386",
-      "path": "NET/SharpDPAPI.x86.exe"
+      "path": "NET/SharpDPAPI.any.exe"
     },
     {
       "os": "windows",
