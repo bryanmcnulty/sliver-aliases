@@ -13,17 +13,17 @@
     {
       "os": "windows",
       "arch": "amd64",
-      "path": "Seatbelt.x86.exe"
+      "path": "NET/Seatbelt.x86.exe"
     },
     {
       "os": "windows",
       "arch": "386",
-      "path": "Seatbelt.x86.exe"
+      "path": "NET/Seatbelt.x86.exe"
     },
     {
       "os": "windows",
       "arch": "arm64",
-      "path": "Seatbelt.x86.exe"
+      "path": "NET/Seatbelt.x86.exe"
     }
   ]
 }
