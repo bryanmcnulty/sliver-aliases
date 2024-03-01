@@ -18,3 +18,4 @@ Collection of importable aliases for use with [Sliver C2](https://github.com/Bis
 - [NoPac](https://github.com/cube0x0/noPac) - `exploit-nopac`
 - [GodPotato](https://github.com/BeichenDream/GodPotato) - `potato-god`
 - [WSuspicious](https://github.com/GoSecure/wsuspicious) - `wsuspicious`
+- [SharpLansweeperDecrypt](https://github.com/Yeeb1/SharpLansweeperDecrypt) - `sharplsdecrypt`
