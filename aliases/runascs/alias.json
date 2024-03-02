@@ -1,0 +1,34 @@
+{
+  "name": "RunasCs",
+  "version": "v1.5.0",
+  "command_name": "runascs",
+  "original_author": "@antonioCoco",
+  "repo_url": "https://github.com/antonioCoco/RunasCs",
+  "help": "Tool to run specific processes with different permissions than the user's current logon provides using explicit credentials.",
+  "allow_args": true,
+  "default_args": "--help",
+  "is_reflective": false,
+  "is_assembly": true,
+  "files": [
+    {
+      "os": "windows",
+      "arch": "amd64",
+      "path": "NET/RunasCs.any.exe"
+    },
+    {
+      "os": "windows",
+      "arch": "386",
+      "path": "NET/RunasCs.any.exe"
+    },
+    {
+      "os": "windows",
+      "arch": "arm64",
+      "path": "NET/RunasCs.arm64.exe"
+    },
+    {
+      "os": "windows",
+      "arch": "arm",
+      "path": "NET/RunasCs.arm.exe"
+    }
+  ]
+}

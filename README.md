@@ -2,7 +2,7 @@
 
 Collection of importable aliases for use with [Sliver C2](https://github.com/BishopFox/sliver).
 
-**Please don't use any of these for real engagements.**
+**Please don't use any of these builds for real engagements.**
 
 ## Aliases
 
@@ -19,3 +19,4 @@ Collection of importable aliases for use with [Sliver C2](https://github.com/Bis
 - [GodPotato](https://github.com/BeichenDream/GodPotato) - `potato-god`
 - [WSuspicious](https://github.com/GoSecure/wsuspicious) - `wsuspicious`
 - [SharpLansweeperDecrypt](https://github.com/Yeeb1/SharpLansweeperDecrypt) - `sharplsdecrypt`
+- [RunasCs](https://github.com/antonioCoco/RunasCs) - `runascs`
