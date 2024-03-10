@@ -6,7 +6,7 @@
   "repo_url": "https://github.com/Yeeb1/SharpLansweeperDecrypt",
   "help": "Tool to automatically extract and decrypt scanning credentials from a local Lansweeper installation",
   "allow_args": true,
-  "default_args": "-h",
+  "default_args": "",
   "is_reflective": false,
   "is_assembly": true,
   "files": [
